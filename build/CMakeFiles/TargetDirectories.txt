@@ -1,3 +1,0 @@
-/home/kali/Documenti/Scripts/c++/contact_book/build/CMakeFiles/contact.dir
-/home/kali/Documenti/Scripts/c++/contact_book/build/CMakeFiles/edit_cache.dir
-/home/kali/Documenti/Scripts/c++/contact_book/build/CMakeFiles/rebuild_cache.dir

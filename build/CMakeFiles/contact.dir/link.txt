@@ -1,1 +1,0 @@
-/usr/bin/c++ -fpermissive CMakeFiles/contact.dir/contact_book/main.cc.o -o contact 
