@@ -70,22 +70,6 @@ int main(){
                 cont.removecontact((unsigned int)id);
                 break;
 
-            case hash("modify"):
-                std::cout << "-- MODIFYING CONTACT --" << std::endl;
-                std::cout << "\t* id of the contact: "; std::cin >> id;
-
-                std::cin.ignore(256, '\n');
-                // remaining input characters up to the next newline character
-                // are ignored
-
-                std::cout << "\t* New Name :" ; std::getline(std::cin,name);
-                std::cout << "\t* New Number:"; std::getline(std::cin,phone);
-
-                cont.removecontact((unsigned int)id);
-                contact_tmp = contact(name,phone);
-                cont.insertcontact(contact_tmp,(unsigned int)id);
-                break;
-
             case hash("replace"):
                 
                 std::cout << "-- MODIFYING CONTACT --" << std::endl;
