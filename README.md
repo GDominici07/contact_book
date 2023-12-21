@@ -25,6 +25,6 @@ cmake --build build
 
 3. how to use
 
-the file is left in `build/contact`, so well and enjoy.
+the file is left in `build/contact_book`, so well and enjoy.
 
 
